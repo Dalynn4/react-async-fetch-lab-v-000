@@ -11,7 +11,7 @@ class App extends React.component {
 
   render() {
     return (
-
+      <div />
     )
   }
 
